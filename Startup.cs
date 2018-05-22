@@ -27,7 +27,15 @@ namespace HttpQueryStringParameters
 
             app.Run(async (context) =>
             {
-                await context.Response.WriteAsync("Hello World!");
+                string response = "<h1>Query String Parameters</h1>" +
+                    "<p>Enter a URL like:</p>" +
+                    "<a href=\"http://localhost:5000/?firstname=Jane&lastname=Smith&age=30\">" +
+                    "http://localhost:5000/?firstname=Jane&lastname=Smith&age=30</a>";
+                foreach (var queryParameter in context.Request.Query)
+                {
+                    response += "<p>" + queryParameter + "</p>";
+                }
+                await context.Response.WriteAsync (response);
             });
         }
     }

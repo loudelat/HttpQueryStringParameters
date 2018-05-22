@@ -1,0 +1,11 @@
+C:\Users\loude\Documents\Pers\LouSoftwareDeveloperBootcamp\SWD104\HttpQueryStringParameters\bin\Debug\netcoreapp2.0\HttpQueryStringParameters.deps.json
+C:\Users\loude\Documents\Pers\LouSoftwareDeveloperBootcamp\SWD104\HttpQueryStringParameters\bin\Debug\netcoreapp2.0\HttpQueryStringParameters.runtimeconfig.json
+C:\Users\loude\Documents\Pers\LouSoftwareDeveloperBootcamp\SWD104\HttpQueryStringParameters\bin\Debug\netcoreapp2.0\HttpQueryStringParameters.runtimeconfig.dev.json
+C:\Users\loude\Documents\Pers\LouSoftwareDeveloperBootcamp\SWD104\HttpQueryStringParameters\bin\Debug\netcoreapp2.0\HttpQueryStringParameters.dll
+C:\Users\loude\Documents\Pers\LouSoftwareDeveloperBootcamp\SWD104\HttpQueryStringParameters\bin\Debug\netcoreapp2.0\HttpQueryStringParameters.pdb
+C:\Users\loude\Documents\Pers\LouSoftwareDeveloperBootcamp\SWD104\HttpQueryStringParameters\obj\Debug\netcoreapp2.0\HttpQueryStringParameters.csprojResolveAssemblyReference.cache
+C:\Users\loude\Documents\Pers\LouSoftwareDeveloperBootcamp\SWD104\HttpQueryStringParameters\obj\Debug\netcoreapp2.0\HttpQueryStringParameters.csproj.CoreCompileInputs.cache
+C:\Users\loude\Documents\Pers\LouSoftwareDeveloperBootcamp\SWD104\HttpQueryStringParameters\obj\Debug\netcoreapp2.0\HttpQueryStringParameters.AssemblyInfoInputs.cache
+C:\Users\loude\Documents\Pers\LouSoftwareDeveloperBootcamp\SWD104\HttpQueryStringParameters\obj\Debug\netcoreapp2.0\HttpQueryStringParameters.AssemblyInfo.cs
+C:\Users\loude\Documents\Pers\LouSoftwareDeveloperBootcamp\SWD104\HttpQueryStringParameters\obj\Debug\netcoreapp2.0\HttpQueryStringParameters.dll
+C:\Users\loude\Documents\Pers\LouSoftwareDeveloperBootcamp\SWD104\HttpQueryStringParameters\obj\Debug\netcoreapp2.0\HttpQueryStringParameters.pdb
